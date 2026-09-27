@@ -1,0 +1,9 @@
+{
+  "name": "Alpha AI",
+  "description": "An advanced, intelligent, and reliable text-based AI assistant for Ethiopian users in Amharic and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
